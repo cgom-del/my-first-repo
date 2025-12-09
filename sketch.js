@@ -13,4 +13,4 @@ function mouseClicked(){
     background(255,0,0);
 }
 
-//person 2 please change the background colour
+//make a square
